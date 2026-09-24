@@ -1,16 +1,13 @@
-## Hi there 👋
+## 嗨，我是林鎮奕
 
-<!--
-**yokohama6658/yokohama6658** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+我是中原大學的學生，目前正在學習計算機概論。
 
-Here are some ideas to get you started:
+## 關於我
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 系級:智運一甲
+- 正在學習:Python、Github
+- 感興趣主題:羽球、棒球
+- 這學期目標:分數都90以上
+
+## 我的作品
+[中原智運](https://icbd.cycu.edu.tw/)
